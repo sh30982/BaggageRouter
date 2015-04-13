@@ -1,1 +1,13 @@
-This file was created by IntelliJ IDEA (Community Edition) IC-130.962 for binding GitHub repository
+##############################################################
+### STEPS TO COMPILE AND RUN THE BAGGAGE ROUTING ALGORITHM ###
+##############################################################
+
+1.	Extract the downloaded code in a local directory. For example D:\Test
+2.	Open the file D:\Test\compile_run.bat
+3.	On line 2, point the variable JAVA_HOME to your local installation of jdk.
+4.	On line 3, point the variable INPUT_FILE_PATH to the local path of the input file.
+4.	Close the file.
+5.	Open a command prompt window, and navigate to D:\Test
+6.	Type "compile_run.bat" and press "Enter" key
+
+You should see the output of the bag routing process.
