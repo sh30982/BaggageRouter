@@ -1,1 +1,18 @@
-This file was created by IntelliJ IDEA (Community Edition) IC-130.962 for binding GitHub repository
+##############################################################
+### STEPS TO COMPILE AND RUN THE BAGGAGE ROUTING ALGORITHM ###
+##############################################################
+
+Option 1:
+1. Import the project in Intellij, and run the project as a Java Application with main class as BaggageRouting. Also, provide the name of input file as a JVM argument.
+
+Option 2:
+1.  Download the code as a zip.
+2.	Extract the downloaded code in a local directory. For example D:\Test
+3.	Open the file D:\Test\BaggageRouter-1.0.1\src\compile_run.bat
+4.	On line 2, point the variable JAVA_HOME to your local installation of jdk.
+5.	On line 3, point the variable INPUT_FILE_PATH to the local path of the input file.
+6.	Close the file.
+7.	Open a command prompt window, and navigate to D:\Test\BaggageRouter-1.0.1\src\
+8.	Type "compile_run.bat" and press "Enter" key
+
+You should see the output of the bag routing process.
